@@ -46,6 +46,8 @@ Analysis & Observations
 Scope of Analysis
 Focused on African countries.
 Assessed crop yield, production, and area harvested from 2000 to 2022.
+![Screenshot 2025-03-19 225038](https://github.com/user-attachments/assets/4daa5b8a-f6dc-420c-b789-15b189ed158f)
+
 
 ### Terminologies
 Temperature Anomalies
