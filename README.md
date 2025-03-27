@@ -17,6 +17,7 @@ The data was gotten from FAO Crop Production and Livestock [Download here](https
 
 ### Data Exploration and Preprocessing
 The crop production and livestock dataset consisted of 16 columns and 14,596 rows.
+![Screenshot 2025-03-19 222620](https://github.com/user-attachments/assets/74e7048d-485c-45d0-88ba-c764f553165e)
 
 The temperature dataset contained 3 columns and 144 rows.
 
