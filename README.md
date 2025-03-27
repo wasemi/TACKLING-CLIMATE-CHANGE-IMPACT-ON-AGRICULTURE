@@ -21,6 +21,8 @@ The crop production and livestock dataset consisted of 16 columns and 14,596 row
 
 The temperature dataset contained 3 columns and 144 rows.
 
+![Screenshot 2025-03-24 210000](https://github.com/user-attachments/assets/7abf721f-2d9b-467f-8e47-ecf01f504326)
+
 ### Data Cleaning and Transformation
 Understanding & Selecting Relevant Columns
 Data exploratory analysis the data, to understand the trend, look at what is important for the analysis.
